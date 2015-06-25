@@ -168,9 +168,11 @@ class generator(object):
             else:
                 parser.print_help()
 
-
-if __name__ == '__main__':
+def main():
     c = generator()
     c.usage()
+
+if __name__ == '__main__':
+    main()
 
 

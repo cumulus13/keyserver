@@ -1,3 +1,5 @@
 from keyserver import generator
-c = generator.generator()
-c.usage()
+
+if __name__ == "__main__":
+	c = generator.generator()
+	c.usage()
