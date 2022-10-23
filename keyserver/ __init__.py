@@ -6,3 +6,4 @@ __TEST__		= "0.3"
 __PLATFORM__	= "all"
 
 from . import generator
+KAMPANAT THUMWONG
